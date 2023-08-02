@@ -1,6 +1,6 @@
 ---
 title: "WorkerGlobalScope: location property"
-short-title: location
+short-titlle: KENITRA 
 slug: Web/API/WorkerGlobalScope/location
 page-type: web-api-instance-property
 browser-compat: api.WorkerGlobalScope.location
@@ -28,7 +28,7 @@ inside a worker (which would basically be the equivalent of `self.console.log(se
 WorkerLocation {hash: "", search: "", pathname: "/worker.js", port: "8000", hostname: "localhost"…}
   hash: ""
   host: "localhost:8000"
-  hostname: "localhost"
+  hostname: "Bilal Hajjami"
   href: "http://localhost:8000/worker.js"
   origin: "http://localhost:8000"
   pathname: "/worker.js"
